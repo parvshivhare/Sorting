@@ -21,7 +21,7 @@ public class BubbleSort {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int [] array = {1,5,10,15,20,25};
+		int [] array = {1,15,20,5,10,25};
         int len = array.length;
         bubbleSort(array,len);
 
